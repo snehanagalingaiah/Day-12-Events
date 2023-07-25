@@ -1,0 +1,12 @@
+.card-header{
+    text-align: center;
+}
+
+.main-container{
+    border: 1px solid grey
+}
+
+.main-container h3{
+    text-align: center;
+    margin-top: 6px
+}
