@@ -4,7 +4,7 @@ let events =10
 
 const buildCard=(i)=>{
 
-  cardArray[i] = `<div class="card col-lg-4 col-md-6 col-sm-8 mx-1 my-2" >
+  cardArray[i] = `<div class="card col" >
   <div class="card-header border-0">Event ${i}</div>
   <div class="card-body d-flex flex-row ">
       <div class="card-image p-2"> <img class ="img-fluid" src="//placehold.it/150" alt="" /> </div>
